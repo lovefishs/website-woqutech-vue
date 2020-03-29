@@ -1,0 +1,33 @@
+{
+  "name": "website-woqutech-vue",
+  "version": "0.0.1",
+  "description": "Woqutech.com site, built on Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.woqutech.com:ued/website-woqutech-vue.git"
+  },
+  "keywords": [
+    "woqutech.com",
+    "woqutech"
+  ],
+  "author": "ued.woqutech.com",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "vue": "2.6.11",
+    "vue-router": "3.1.6",
+    "vuex": "3.1.3"
+  },
+  "devDependencies": {
+    "husky": "4.2.3",
+    "lint-staged": "10.0.9",
+    "prettier": "2.0.2",
+    "q-prettier-config": "1.0.0",
+    "typescript": "3.8.3",
+    "webpack": "4.42.1",
+    "webpack-cli": "3.3.11"
+  }
+}
